@@ -1,2 +1,2 @@
 # hello-world
-1st repository
+1st repository - wtf I'm doing?
